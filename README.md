@@ -57,9 +57,6 @@ Uses scrollTop to calculate visible indices
 Maintains full scroll height using a spacer container
 Prevents DOM overload and improves performance
 
-Screenshots
-Add screenshots here (Kanban, List, Timeline, Lighthouse report)
-
 Performance
 Smooth rendering with large datasets (500+ tasks)
 Minimal DOM nodes using virtualization
