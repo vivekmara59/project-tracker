@@ -1,7 +1,7 @@
 # Project Tracker UI 
 
 ## Live Demo
-https://vercel.com/vivekmara59s-projects/project-tracker-app
+https://project-tracker-app-eight.vercel.app/
 
 ## Setup Instructions
 ```bash
